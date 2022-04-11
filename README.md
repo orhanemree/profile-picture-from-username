@@ -1,4 +1,4 @@
-# 	🎨 Profile Picture from Username
+# 🎨 Profile Picture from Username
 * Generate unique profile picture from username and use it everywhere with connecting Flask server.
 * :octocat: Inspired from GitHub itself.
 
@@ -20,7 +20,12 @@ $ python app.py
 * You can use the profile picture simply connecting ``localhost:5500/<username>`` from any language you choose.
 
 ## 🔎 Examples
-<img src="img/examples.jpg" alt="profile-picture-from-username" width="80%">
+* http://localhost:5500/pjhyett
+* http://localhost:5500/KirinDave
+* http://localhost:5500/atmos
+* http://localhost:5500/defunkt
+
+<img src="img/examples.jpg" alt="profile-picture-from-username" width="70%">
 
 ## ✨ Features
 * [x] Return profile picture without saving with data url.
@@ -28,4 +33,4 @@ $ python app.py
 * [x] Set fill_color from first 3 chars of username and adjust contrast.
 
 ## 📃 License
-* Licensed under [MIT License]("./LICENSE).
+* Licensed under [MIT License]("https://github.com/orhanemree/profile-picture-from-username/blob/master/LICENSE).
