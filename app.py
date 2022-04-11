@@ -9,7 +9,7 @@ pixel_size = 50
 
 @app.route("/")
 def index():
-    return jsonify({"name": "profile-picture-from-username", "description": "", "license": "MIT", "developer": "orhanemree", "github": "https://github.com/profile-picture-from-username"})
+    return jsonify({"name": "profile-picture-from-username", "description": "Generate unique profile picture from username and use it everywhere with connecting Flask server.", "license": "MIT", "developer": "orhanemree", "github": "https://github.com/profile-picture-from-username"})
 
 
 @app.route("/<username>")
