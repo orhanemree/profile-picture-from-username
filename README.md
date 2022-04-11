@@ -33,4 +33,4 @@ $ python app.py
 * [x] Set fill_color from first 3 chars of username and adjust contrast.
 
 ## 📃 License
-* Licensed under [MIT License]("https://github.com/orhanemree/profile-picture-from-username/blob/master/LICENSE).
+* Licensed under [MIT License](https://github.com/orhanemree/profile-picture-from-username/blob/master/LICENSE).
